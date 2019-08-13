@@ -27,4 +27,5 @@ In hindsight, testing got pretty annoying; every time I upgraded dbot, I would h
 Obviously, as with every project, there is a huge list of cool things I want to add. However, I think this version of dbot is completed and, if anything, I'll create a new bot for GroupMe (gbot?). Maybe I'll move on to other messaging services like Discord.
 
 #### Thanks for reading!
-[Link to Project](https://github.com/benjamin-shen/dbot) 
+[Link to Project](https://github.com/benjamin-shen/dbot)  
+[Back to About](/../../)  
