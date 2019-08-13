@@ -1,5 +1,5 @@
 # Benjamin Shen
-[Email](mailto:bfs45@cornell.edu)
+[Email](mailto:bfs45@cornell.edu) | [LinkedIn](https://www.linkedin.com/in/benjaminfshen/)
 
 ### Education
 **Cornell University - May 2022**  
