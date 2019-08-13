@@ -27,6 +27,6 @@ Oversee social media accounts and multimedia content, run publicity-related erra
 **Interests:** photography, electronics, cooking, singing, piano, tennis  
 
 ### Github Projects
-**dbot:** Python GroupMe Bot  
-**admissions2019:** NodeJS Web App for Project Testing  
-**web-test:** Python Web App for Quizzes/Tests  
+**[dbot](github/dbot.md):** Python GroupMe Bot  
+**[admissions2019](github/admissions2019.md):** NodeJS Web App for Project Testing  
+**[web-test](github/web-test.md):** Python Website for Quizzes/Tests  
