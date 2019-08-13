@@ -23,3 +23,4 @@ Since time was running short, I coded and tested this web app in around 10-20 ho
 Unfortunately, the app was never used for the project because the traditional word document method was safer and had already been started. There was definitely a lack of communication that I learned from. However, there were some other projects whose tasks I tested that I think could've used a very similar (repurposed) web app. I haven't given up on this project yet, and I hope I can polish it and eventually convince the Cornell Business IT Department to use an upgrade entirely envisioned by myself.
 
 #### Thanks for reading!
+[Link to Project](https://github.com/benjamin-shen/admissions2019)  
