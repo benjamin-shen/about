@@ -26,4 +26,3 @@ If I was more serious about this idea, I would probably reprogram the entire thi
 
 #### Thanks for reading!
 [Link to Project](https://github.com/benjamin-shen/web-test)  
-[Back to About](/../../)  
