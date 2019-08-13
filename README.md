@@ -11,7 +11,7 @@ GPA: 96/100
 Certificate for Excellence in Web Design  
 
 ### Experience
-**SC Johnson Graduate School of Management | *Salesforce Administrator* (May 2019 - Present)**
+**SC Johnson Graduate School of Management | *Salesforce Administrator* (May 2019 - Present)**  
 Respond to service requests and accomplish long-term project tasks  
 Communicate technical information with customers, peers, and supervisors in a collaborative setting  
 Work individually to produce web apps and scripts to aid in data cleanup, updates, and testing  
