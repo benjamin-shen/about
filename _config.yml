@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Ben Shen
 links:
+  - title:
     url: /
 description: developer/engineer
 defaults:
