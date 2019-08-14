@@ -24,3 +24,4 @@ Unfortunately, the app was never used for the project because the traditional wo
 
 #### Thanks for reading!
 [Link to Project](https://github.com/benjamin-shen/admissions2019)  
+[Back to Home](/README.md)  
