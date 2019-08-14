@@ -25,3 +25,5 @@ Oversee social media accounts and multimedia content, run publicity-related erra
 **Programming Languages:** Python, Java, JavaScript, PHP, MATLAB, R, NetLogo  
 **Computer Programs:** Adobe Photoshop, Adobe Lightroom, AutoCAD  
 **Interests:** photography, electronics, cooking, singing, piano, tennis  
+
+[Back to Home](/../../../about)  
