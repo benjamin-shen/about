@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ben Shen
 description: developer/engineer
+footer: ""
 defaults:
   - scope:
       path: ""
