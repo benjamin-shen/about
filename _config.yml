@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-title: <a href="https://benjamin-shen.github.io/about/">Ben Shen</a>
+links:
+  - title: Ben Shen
+    url: /
 description: developer/engineer
 defaults:
   - scope:
