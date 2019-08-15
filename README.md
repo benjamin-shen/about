@@ -12,8 +12,5 @@ Hi! I'm a current sophomore at Cornell University majoring in Computer Science a
 
 ### Other
 
-**[clear_immersion](projects/clear_immersion.md):** Python Script for Data Cleanup  
+***[clear_immersion](projects/clear_immersion.md):*** Python Script for Data Cleanup  
 **[netlogo](https://github.com/benjamin-shen/netlogo):** NetLogo games/projects  
-
-
-*internal links are italicized*

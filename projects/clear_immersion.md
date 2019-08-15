@@ -25,4 +25,4 @@ If there ever was a cleaner non-AutoGUI option to automate the data cleanup (lik
 #### Thanks for reading!
 [Link to Project](https://github.com/benjamin-shen/clear_immersion)  
 
-[Back to Home](/../../../about)  
+*[Back to Home](/../../../about)*  

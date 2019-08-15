@@ -26,4 +26,4 @@ Oversee social media accounts and multimedia content, run publicity-related erra
 **Computer Programs:** Adobe Photoshop, Adobe Lightroom, AutoCAD  
 **Interests:** photography, electronics, cooking, singing, piano, tennis  
 
-[Back to Home](/../../../about)  
+*[Back to Home](/../../../about)*  
