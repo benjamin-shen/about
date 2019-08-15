@@ -3,8 +3,6 @@ Hi! I'm a current sophomore at Cornell University majoring in Computer Science a
 
 ### *[Resume](resume.md)*
 
-### [Photography](https://www.behance.net/benjaminshen)
-
 ### Projects
 ***[dbot](projects/dbot.md):*** Python GroupMe Bot   
 ***[web-test](projects/web-test.md):*** Python Website for Quizzes/Tests  
