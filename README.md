@@ -9,6 +9,10 @@ Hi! I'm a current sophomore at Cornell University majoring in Computer Science a
 ***[admissions2019](projects/admissions2019.md):*** NodeJS Web App for Project Testing 
 
 ### Other
-
 ***[clear_immersion](projects/clear_immersion.md):*** Python Script for Data Cleanup  
 **[netlogo](https://github.com/benjamin-shen/netlogo):** NetLogo games/projects  
+
+### In Progress
+**glozzpersonalitytest:** JavaScript Personality Test based on GLOZZ Members  
+**language_access_report:** Website to Highlight the [Lack of Language Access in NYC Public Housing](https://caaav.org/our-work/programs/public-housing-organizing-project/public-housing-language-access-report)  
+**plantcare:** Mobile App to Assist/Encourage Indoor Plant Care
