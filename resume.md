@@ -18,8 +18,10 @@ Work individually to produce web apps and scripts to aid in data cleanup, update
 
 ### Activities
 **[Cornell Glee Club](https://www.gleeclub.com/) | *Assistant Publicity Officer* (Sept 2018 - Present)**  
-Perform for the local community and in venues across the country/world  
+Perform choral music for the local community and in venues across the country/world  
 Oversee social media accounts and multimedia content, run publicity-related errands and manage projects  
+**[The Chordials](https://chordials.com) | *Member* (Sept 2019 - Present)**  
+Sing co-ed a cappella in local gigs/performances and competitions  
 
 ### Skills/Interests
 **Programming Languages:** Python, Java, JavaScript, PHP, MATLAB, R, NetLogo  
