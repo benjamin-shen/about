@@ -1,5 +1,5 @@
 # About
-Hi! I'm a current sophomore at Cornell University majoring in Computer Science and planning to minor in Mechanical Engineering and Game Design. I'm currently looking for freelance development projects and a co-op opportunity for next year (Summer-Fall 2020).  
+Hi! I'm a sophomore at Cornell University majoring in Computer Science and planning to minor in Game Design. I'm currently looking for freelance development projects and a summer internship or co-op opportunity for next year.  
 
 ### *[Resume](resume.md)*
 
