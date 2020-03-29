@@ -7,7 +7,7 @@ Handshake: [Benjamin Shen](https://app.joinhandshake.com/users/14460423)
 ### Education
 **[Cornell University](https://www.engineering.cornell.edu/) - May 2022**  
 B.S. in Computer Science, Minor in Game Design  
-*Relevant Coursework:* Functional Programming, Object-Oriented Programming, System Programming, Computer Game Architecture, Artificial Intelligence, Networks  
+*Relevant Coursework:* Functional Programming, Object-Oriented Programming, System Programming, Computer Game Architecture, Artificial Intelligence, Networks, Unix Tools and Scripting  
 
 **[Stuyvesant High School](https://stuy.enschool.org/) - June 2018**  
 GPA: 96/100  
