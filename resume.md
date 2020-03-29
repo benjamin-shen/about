@@ -15,7 +15,7 @@ Certificate for Excellence in Web Design
 
 
 ### Experience
-**[SC Johnson Graduate School of Management](https://www.johnson.cornell.edu/) | *Salesforce Administrator Intern* (May 2019 - Present)**  
+**[SC Johnson Graduate School of Management](https://www.johnson.cornell.edu/) | *Salesforce Administrator* (May 2019 - Present)**  
 - Respond to service requests and accomplish long-term project tasks  
 - Communicate technical information with customers, peers, and supervisors in a collaborative setting  
 - Write scripts to aid in data cleanup, updates, and testing  
