@@ -1,12 +1,13 @@
 # About
 Hi! I'm a sophomore at Cornell University majoring in Computer Science and planning to minor in Game Design. I'm actively looking for freelance development projects and a summer internship for this summer.  
 
-Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu).  
+Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu). A PDF resume is available on request.  
 
-### *[Resume](resume/resume.md) ([pdf](resume/BenjaminShen.pdf))*
+### *[Resume](resume/resume.md)*
 
 ### College Projects
-**Rubato:** 2D Combat Puzzle Platformer (coming this May)  
+**Rubato (2020):** 2D Combat Puzzle Platformer built in LibGDX (coming this May)  
+**DBMS (2019):** OCaml Text-Based Database Management System  
 **Flux:** Project Team Work on Backend Repositories 
 (**[campus-density-backend](https://github.com/cornell-dti/campus-density-backend)**, 
 **[flux-fitness](https://github.com/cornell-dti/flux-fitness)**, 
@@ -23,6 +24,5 @@ Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu).
 **[netlogo](https://github.com/benjamin-shen/netlogo):** NetLogo games/projects  
 
 ### In Progress
-**oh!cal:** Firebase NodeJS Office Hour Calendar (MLH BigRed//Hacks Project)  
-**glozzpersonalitytest:** JavaScript Personality Test based on GLOZZ Members  
+**glozzpersonalitytest:** JavaScript Personality Test for some of my friends  
 **language_access_report:** Website to Highlight the [Lack of Language Access in NYC Public Housing](https://caaav.org/our-work/programs/public-housing-organizing-project/public-housing-language-access-report)  
