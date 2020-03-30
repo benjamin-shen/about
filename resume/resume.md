@@ -1,8 +1,9 @@
 # Resume
 Email: [bfs45@cornell.edu](mailto:bfs45@cornell.edu)  
 LinkedIn: [benjaminfshen](https://www.linkedin.com/in/benjaminfshen/)  
-Handshake: [Benjamin Shen](https://app.joinhandshake.com/users/14460423)
+Handshake: [Benjamin Shen](https://app.joinhandshake.com/users/14460423)  
 
+---
 
 ### Education
 **[Cornell University](https://www.engineering.cornell.edu/) - May 2022**  
@@ -48,7 +49,7 @@ Certificate for Excellence in Web Design
 **Programming Languages:** Python, JavaScript, Java, Bash, OCaml, NetLogo  
 **Markdown Languages:** HTML, CSS, Markdown, LaTeX  
 **Development Services:** Git, Salesforce, Heroku, Firebase  
-**Computer Software:** Slack, Discord, Adobe Photoshop, Adobe Lightroom, AutoCAD  
+**Computer Software:** Slack, Discord, Skype, Adobe Photoshop, Adobe Lightroom, AutoCAD  
 **Interests:** videogames, electronics, cooking, singing, piano, tennis  
 
 

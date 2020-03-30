@@ -1,9 +1,12 @@
 # About
 Hi! I'm a sophomore at Cornell University majoring in Computer Science and planning to minor in Game Design. I'm actively looking for freelance development projects and a summer internship for this summer.  
 
-Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu). A PDF resume is available on request.  
+Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu).  
 
 ### *[Resume](resume/resume.md)*
+PDF version available on request.  
+
+---
 
 ### College Projects
 **Rubato (2020):** 2D Combat Puzzle Platformer built in LibGDX (coming this May)  
