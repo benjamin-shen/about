@@ -1,5 +1,5 @@
 # About
-Hi! I'm a sophomore at Cornell University majoring in Computer Science and planning to minor in Game Design. I'm actively looking for freelance development projects and a summer internship for this summer.  
+Hi! I'm a sophomore at Cornell University majoring in Computer Science and planning to minor in Game Design. I'm actively looking for freelance development projects and a summer internship for 2020.  
 
 Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu).  
 
