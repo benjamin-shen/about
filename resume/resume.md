@@ -1,9 +1,4 @@
 # Resume
-Email: [bfs45@cornell.edu](mailto:bfs45@cornell.edu)  
-LinkedIn: [benjaminfshen](https://www.linkedin.com/in/benjaminfshen/)  
-Handshake: [Benjamin Shen](https://app.joinhandshake.com/users/14460423)  
-
----
 
 ### Education
 **[Cornell University](https://www.engineering.cornell.edu/) - May 2022**  
