@@ -3,6 +3,10 @@ Hi! I'm a sophomore at Cornell University majoring in Computer Science and plann
 
 Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu).  
 
+Github: [benjamin-shen](https://github.com/benjamin-shen/)  
+LinkedIn: [benjaminfshen](https://www.linkedin.com/in/benjaminfshen/)  
+Handshake: [Benjamin Shen](https://app.joinhandshake.com/users/14460423)  
+
 ### *[Resume](resume/resume.md)*
 PDF version available on request.  
 
