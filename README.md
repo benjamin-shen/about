@@ -22,10 +22,5 @@ PDF version available on request.
 ***[web-test](projects/web-test.md):*** Python Website for Quizzes/Tests  
 ***[admissions2019](projects/admissions2019.md):*** NodeJS Web App for Project Testing 
 
-### Other Work
-***[clear_immersion](projects/clear_immersion.md):*** Python Script for Data Cleanup  
-**[netlogo](https://github.com/benjamin-shen/netlogo):** NetLogo games/projects  
-
-### In Progress
-**glozzpersonalitytest:** JavaScript Personality Test for some of my friends  
-**language_access_report:** Website to Highlight the [Lack of Language Access in NYC Public Housing](https://caaav.org/our-work/programs/public-housing-organizing-project/public-housing-language-access-report)  
+<!--### Other Work
+**[netlogo](https://github.com/benjamin-shen/netlogo):** NetLogo games/projects  -->
