@@ -44,8 +44,8 @@ Certificate for Excellence in Web Design
 **Programming Languages:** Python, JavaScript, Java, Bash, OCaml, NetLogo  
 **Markdown Languages:** HTML, CSS, Markdown, LaTeX  
 **Development Services:** Git, Salesforce, Heroku, Firebase  
-**Computer Software:** Slack, Skype, Adobe Photoshop, Adobe Lightroom, AutoCAD  
-**Interests:** videogames, electronics, cooking, singing, piano, tennis  
+**Computer Software:** Adobe Photoshop, Adobe Lightroom, AutoCAD  
+**Interests:** videogames, cooking, singing, piano, tennis  
 
 
 *[Back to Home](/../../../about)*  
