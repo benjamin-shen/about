@@ -13,9 +13,9 @@ PDF version available on request.
 ---
 
 ### College Projects
-**Rubato (2020):** 2D Combat Puzzle Platformer built in LibGDX (coming this May)  
+**Rubato (2020):** 2D Combat Puzzle Platformer built in LibGDX ([pre-releases](https://pages.github.coecis.cornell.edu/glassboxgames/rubato-releases/))  
 **DBMS (2019):** OCaml Text-Based Database Management System  
-**Flux:** Project Team Work on Backend Repositories 
+**Flux (2019-2020):** Project Team Work on Flux mobile app and Flux Fitness web app 
 (**[campus-density-backend](https://github.com/cornell-dti/campus-density-backend)**, 
 **[flux-fitness](https://github.com/cornell-dti/flux-fitness)**, 
 **[flux-fitness_historic-data](https://github.com/benjamin-shen/flux-fitness_historic-data)**, 
