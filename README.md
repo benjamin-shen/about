@@ -1,5 +1,6 @@
-# About
-Hi! I'm a sophomore at Cornell University majoring in Computer Science and planning to minor in Game Design. I'm actively looking for freelance development projects and a summer internship for 2020.  
+# (Archived, please visit [benjaminshen.com](https://benjaminshen.com))
+<!--
+Hi! I'm a student at Cornell University majoring in Computer Science. I'm actively looking for freelance development projects and a summer internship.  
 
 Please email me at [bfs45@cornell.edu](mailto:bfs45@cornell.edu).  
 
@@ -25,6 +26,4 @@ PDF version available on request.
 ***[dbot](projects/dbot.md):*** Python GroupMe Bot   
 ***[web-test](projects/web-test.md):*** Python Website for Quizzes/Tests  
 ***[admissions2019](projects/admissions2019.md):*** NodeJS Web App for Project Testing 
-
-<!--### Other Work
-**[netlogo](https://github.com/benjamin-shen/netlogo):** NetLogo games/projects  -->
+-->
